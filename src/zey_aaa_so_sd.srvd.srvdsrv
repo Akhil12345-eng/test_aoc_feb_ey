@@ -1,0 +1,4 @@
+@EndUserText.label: 'service definition'
+define service Zey_aaa_so_sd {
+  expose ZC_EY_AAA_SALES_ANA as SalesSet;
+}
